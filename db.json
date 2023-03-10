@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "banu@gmail.com",
+      "username": "banu",
+      "password": "12345",
+      "tasks": []
+    },
+    {
+      "id": 2,
+      "email": "masai@gmail.com",
+      "username": "masai",
+      "password": "123456",
+      "tasks": []
+    }
+  ]
+}
