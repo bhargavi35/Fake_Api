@@ -14,5 +14,13 @@
       "password": "123456",
       "tasks": []
     }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "banu@gmail.com",
+      "username": "banu",
+      "password": "12345"
+    }
   ]
 }
